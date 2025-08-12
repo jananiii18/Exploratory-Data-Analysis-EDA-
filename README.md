@@ -124,7 +124,9 @@ plt.yticks(rotation=0)
 plt.show()
 ```
 ![Correlation Matrix](https://github.com/jananiii18/Exploratory-Data-Analysis-EDA-/blob/3ff513ff1ee361d8e683b82682c89ebe471b2ebe/CorrelationMatrix.png)
+
 **Observation:** Survival is positively correlated with being female (`Sex_n = 1`, correlation 0.54) and with fare (0.26). It is negatively correlated with passenger class (-0.34) and traveling alone (-0.20). These correlations align with earlier visual findings.
+
 
 ## Executive Summary
 

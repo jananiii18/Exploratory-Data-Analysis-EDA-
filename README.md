@@ -1,4 +1,4 @@
-### Titanic Dataset — Exploratory Data Analysis (EDA)
+# Titanic Dataset — Exploratory Data Analysis (EDA)
 
 ## Dataset  
 - **Source**: [Titanic Dataset - CSV file in this repository](train.csv)  

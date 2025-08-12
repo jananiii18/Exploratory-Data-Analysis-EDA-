@@ -29,6 +29,7 @@ plt.title('Survival Counts')
 plt.show()
 ```
 ![Survival Counts](https://github.com/jananiii18/Exploratory-Data-Analysis-EDA-/blob/e701629757b98fc708992a7ff3f1482eb0d02d19/SurvivalCounts.png)
+
 **Observation:** Out of 891 passengers, **38%** survived and **62%** did not. This shows a strong class imbalance, which should be considered if building predictive models.
 
 ### 2. Age Distribution
@@ -51,6 +52,7 @@ sns.despine()
 plt.show()
 ```
 ![Age Distribution](https://github.com/jananiii18/Exploratory-Data-Analysis-EDA-/blob/3ff513ff1ee361d8e683b82682c89ebe471b2ebe/AgeDistributionofPassengers.png)
+
 **Observation:** Most passengers were between 20 and 40 years old. There is also a smaller group of children and teenagers, which could influence survival rates.
 
 ### 3. Survival by Sex
@@ -72,6 +74,7 @@ sns.despine()
 plt.show()
 ```
 ![Survival by Sex](https://github.com/jananiii18/Exploratory-Data-Analysis-EDA-/blob/3ff513ff1ee361d8e683b82682c89ebe471b2ebe/SurvivalbySex.png)
+
 **Observation:** Females had a survival rate of **74.2%**, compared to only **18.9%** for males. This supports the "women and children first" evacuation policy on the Titanic.
 
 ### 4. Survival by Passenger Class
@@ -93,6 +96,7 @@ sns.despine()
 plt.show()
 ```
 ![Survival by class](https://github.com/jananiii18/Exploratory-Data-Analysis-EDA-/blob/f930b265a4b48561a141c7d6e07d71e59c2d2bed/SurvivalbyPassengerClass.png)
+
 **Observation:** 1st Class passengers survived at **62.9%**, while 3rd Class passengers survived at only **24.2%**. Higher-class cabins likely provided faster access to lifeboats.
 
 ### 4. Correlation Matrix

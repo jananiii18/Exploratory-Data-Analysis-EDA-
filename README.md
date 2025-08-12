@@ -133,8 +133,6 @@ plt.show()
 - **Gender Effect:** Females had a much higher survival rate (**74.2%**) compared to males (**18.9%**), likely due to "women and children first" evacuation protocols.
 - **Class Effect:** 1st Class passengers survived at **62.9%**, while 3rd Class survival was only **24.2%**,showing that higher-class cabins had better lifeboat access.
 - **Age Effect:** Children and younger passengers had higher survival chances, while middle-aged passengers had lower odds.
-- **Fare Effect:** Survivors generally paid much higher fares on average **`~$48`** compared to **`~$22`** for non-survivors.This notable gap suggests a socio-economic survival advantage.
-- **Travel Group Effect:** Passengers traveling with family had slightly better survival rates than those traveling alone, supported by the negative correlation of **-0.20** for the `IsAlone` feature.
 - **Correlation Insights:** Survival is positively correlated with being female (`Sex_n = 1`, **0.54**) and with fare (**0.26**),and negatively correlated with passenger class (**-0.34**) and traveling alone (**-0.20**).
 
 **Conclusion:** The analysis confirms that socio-economic status,gender,age,and travel group size were key factors influencing survival on the Titanic, with wealth and cabin class playing a major role.

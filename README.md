@@ -1,7 +1,7 @@
 ### Titanic Dataset — Exploratory Data Analysis (EDA)
 
 ## Dataset  
-- **Source**: [Titanic Dataset - CSV file in this repository](https://github.com/jananiii18/Exploratory-Data-Analysis-EDA-/blob/main/data/train.csv)  
+- **Source**: [Titanic Dataset - CSV file in this repository](train.csv)  
 - **Rows**: 891 passengers
 -  **Columns**: 12 features -  ` PassengerId`, `Survived`, `Pclass`, `Name`, `Sex`, `Age`, `SibSp`, `Parch`, `Ticket`, `Fare`, `Cabin`, `Embarked`.
 
